@@ -1,7 +1,9 @@
-package br.com.barbara.fourthedition;
+package br.com.barbara.fourthedition.layout;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import br.com.barbara.fourthedition.R;
 
 public class MainActivity extends AppCompatActivity {
 

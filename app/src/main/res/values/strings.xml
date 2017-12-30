@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Fourth Edition</string>
+    <string name="charListOpen">Characters</string>
+    <string name="encyclopediaOpen">Encyclopedia</string>
 </resources>
